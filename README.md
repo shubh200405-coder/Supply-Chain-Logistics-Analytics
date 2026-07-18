@@ -1,6 +1,6 @@
 # 🚚 Supply Chain & Logistics Analytics Dashboard
 
-### 👨‍💻 Developed by **Shubh Srivastava** & **Liza Deka**
+### 👥 A Collaborative Project by **Shubh Srivastava** & **Liza Deka**
 
 > **An End-to-End Supply Chain & Logistics Analytics Project built using PostgreSQL, SQL, Microsoft Power BI, DAX, and Power Query. This project analyzes more than 500,000+ logistics records across 14 interconnected relational tables to transform raw operational data into meaningful business insights for strategic decision-making.**
 
@@ -349,6 +349,13 @@ https://www.linkedin.com/in/shubh-srivastava-0710593b2/
 💻 **GitHub**
 
 https://github.com/shubh200405-coder
+
+## 👩‍💻 Liza Deka
+
+**Data Analyst | Project Contributor**
+
+📧 **Email:** dekaliza98@gmail.com
+
 
 ---
 
